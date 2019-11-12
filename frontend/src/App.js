@@ -101,9 +101,9 @@ function App() {
     });
   };
 
-function RemoveBlink() {
-  b.className = "hello";
-}
+// function RemoveBlink() {
+//   b.className = "hello";
+// }
 
   const restart = () => {
     state.counter = 0;
